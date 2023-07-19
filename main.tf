@@ -1,0 +1,1 @@
+resource "aws_" "adasd"
